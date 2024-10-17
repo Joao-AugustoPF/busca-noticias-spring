@@ -12,4 +12,5 @@ Este projeto consome a API de notícias e retorna as últimas manchetes ou reali
 1. Clone o repositório.
 2. Compile o projeto usando Maven:
    ```bash
-   ./mvnw clean install
+   docker compose build
+   docker compose up -d
