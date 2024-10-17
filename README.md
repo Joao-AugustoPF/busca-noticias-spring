@@ -10,7 +10,7 @@ Este projeto consome a API de notícias e retorna as últimas manchetes ou reali
 ## Como executar o projeto
 
 1. Clone o repositório.
-2. Compile o projeto usando Maven:
+2. Compile o projeto usando Docker:
    ```bash
    docker compose up -d --build
    ```
